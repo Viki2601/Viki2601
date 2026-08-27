@@ -121,9 +121,9 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6EE7F7,50:A18CD1,100:FF9A9E&height=150&section=footer&animation=fadeIn" />
+  <em>"Bridging the gap between engineering rigour and pixel-perfect design."</em>
 </p>
 
 <p align="center">
-  <em>"Bridging the gap between engineering rigour and pixel-perfect design."</em>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6EE7F7,50:A18CD1,100:FF9A9E&height=150&section=footer&animation=fadeIn" />
 </p>
