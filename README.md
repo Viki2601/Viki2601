@@ -1,16 +1,86 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Vishnu 👋</h1>
+<h3 align="center">Frontend Developer crafting motion-rich, WebGL-driven interfaces</h3>
 
-<!--
-**Viki2601/Viki2601** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=C9A84C&center=true&vCenter=true&width=600&lines=UI+Developer+%7C+Chennai%2C+India;Three.js+%2F+React+Three+Fiber+%2F+GSAP;Bridging+engineering+rigour+%26+pixel-perfect+design" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://vishnumuthukumar.com"><img src="https://img.shields.io/badge/Portfolio-vishnumuthukumar.com-c9a84c?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧭 About Me
+
+- 🎨 UI Developer who bridges the gap between engineering rigour and pixel-perfect design
+- 🏆 Trailblazer Award recipient — established code review standards, sprint workflows & reusable component systems
+- 🧩 Deep focus on **motion design**, **scroll-driven animation**, and **expressive, WebGL-powered UI**
+- 📍 Based in Chennai, Tamil Nadu, India
+- 🎓 Currently pursuing BCA (Distance) @ University of Madras
+- 📸 When I'm not shipping UI — nature photography & travel
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Three_Fiber-000000?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/SASS-CC6699?style=flat-square&logo=sass&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mapbox_GL_JS-000000?style=flat-square&logo=mapbox&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" />
+</p>
+
+---
+
+### 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h4><a href="https://vishnu-lake.vercel.app">🌐 Personal Portfolio</a></h4>
+      Horizontal-scroll architecture driven by GSAP ScrollTrigger, Framer Motion & Lenis, with a custom <code>useRevealProgress</code> hook system.
+    </td>
+    <td width="50%">
+      <h4><a href="https://verdana-three.vercel.app">🌲 Verdana</a></h4>
+      Nature retreat booking platform — WebGL water-ripple shader, fog parallax, Web Audio API, and a full forest-green/gold design system.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h4><a href="https://homura-kitchen.vercel.app">🍳 Homura</a></h4>
+      3D kitchen visualization tool built with Three.js and React Three Fiber.
+    </td>
+    <td width="50%">
+      <h4><a href="https://map-viz-weld.vercel.app">🗺️ Pathfinding Visualizer</a></h4>
+      Road network algorithm visualizer (Dijkstra, A*, BFS, DFS) in Next.js with Mapbox GL JS and a custom rAF animation loop.
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Viki2601&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=c9a84c&icon_color=c9a84c" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viki2601&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=c9a84c" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Viki2601&theme=dark&hide_border=true&background=0d1117&ring=c9a84c&fire=c9a84c" />
+</p>
+
+---
+
+<p align="center">
+  <em>"Bridging the gap between engineering rigour and pixel-perfect design."</em>
+</p>
