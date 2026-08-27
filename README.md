@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://vishnumuthukumar.com"><img src="https://img.shields.io/badge/Portfolio-vishnumuthukumar.com-FF9AC4?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="[https://vishnumuthukumar.com](https://vishnu-lake.vercel.app/)"><img src="https://img.shields.io/badge/Portfolio-vishnumuthukumar.com-FF9AC4?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=Viki2601&style=for-the-badge&color=A18CD1&label=Profile+Views" />
 </p>
 
