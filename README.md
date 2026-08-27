@@ -68,6 +68,33 @@
 
 ---
 
+### 📌 Repositories
+
+<p align="center">
+  <img width="410" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Viki2601&repo=Job-Land&theme=dark&hide_border=true&bg_color=0d1117&title_color=c9a84c&icon_color=c9a84c" />
+  <img width="410" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Viki2601&repo=Resume-Builder&theme=dark&hide_border=true&bg_color=0d1117&title_color=c9a84c&icon_color=c9a84c" />
+</p>
+<p align="center">
+  <img width="410" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Viki2601&repo=E-Learning-Website&theme=dark&hide_border=true&bg_color=0d1117&title_color=c9a84c&icon_color=c9a84c" />
+  <img width="410" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Viki2601&repo=mai-corp&theme=dark&hide_border=true&bg_color=0d1117&title_color=c9a84c&icon_color=c9a84c" />
+</p>
+
+---
+
+### 📈 Contribution Activity
+
+<p align="center">
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Viki2601&theme=react-dark&bg_color=0d1117&color=c9a84c&line=c9a84c&point=ffffff&area=true&hide_border=true" />
+</p>
+
+<!-- Contribution snake — animates a snake eating through your contribution graph.
+     Needs a one-time GitHub Action setup (see snake.yml provided alongside this file). -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Viki2601/Viki2601/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
