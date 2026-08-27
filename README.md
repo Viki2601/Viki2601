@@ -76,12 +76,6 @@
   <img width="90%" src="https://raw.githubusercontent.com/Viki2601/Viki2601/main/metrics.isocalendar.svg" />
 </p>
 
-<!-- Contribution snake — animates a snake eating through your contribution graph.
-     Needs a one-time GitHub Action setup (see snake.yml provided alongside this file). -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Viki2601/Viki2601/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
 ---
 
 ### 📊 GitHub Stats
