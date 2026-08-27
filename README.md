@@ -71,12 +71,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Viki2601&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=c9a84c&icon_color=c9a84c" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viki2601&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=c9a84c" />
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Viki2601&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=c9a84c&icon_color=c9a84c" />
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Viki2601&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=c9a84c" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Viki2601&theme=dark&hide_border=true&background=0d1117&ring=c9a84c&fire=c9a84c" />
+  <img src="https://github-readme-streak-stats.demolab.com/?user=Viki2601&theme=dark&hide_border=true&background=0d1117&ring=c9a84c&fire=c9a84c" />
 </p>
 
 ---
